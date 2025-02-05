@@ -9,3 +9,5 @@ Entitati:
 •	Membri, date_membri
 •	Abonamente, tip_abonament, durata
 •	Antrenori, date_antrenori, specializare
+
+![Diagrama_DB](diagrame.png)
