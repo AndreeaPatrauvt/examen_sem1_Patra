@@ -9,16 +9,17 @@ update tara set nume='bulgary' where fid=18;
 update tara set nume='belgium' where fid=19;
 update tara set nume='greece' where fid=20;
 
-UPDATE judet SET nume = 'timiș' WHERE fid = 1;
-UPDATE judet SET nume = 'arad' WHERE fid = 2;
-UPDATE judet SET nume = 'hunedoara' WHERE fid = 3;
-UPDATE judet SET nume = 'maramureș' WHERE fid = 4;
-UPDATE judet SET nume = 'mehedinți' WHERE fid = 5;
-UPDATE judet SET nume = 'constanța' WHERE fid = 6;
-UPDATE judet SET nume = 'cluj' WHERE fid = 7;
-UPDATE judet SET nume = 'alba' WHERE fid = 8;
-UPDATE judet SET nume = 'bucurești' WHERE fid = 9;
-UPDATE judet SET nume = 'mureș' WHERE fid = 10;
+
+UPDATE judet SET suprafata = 8700 WHERE fid = 1;
+UPDATE judet SET suprafata = 7800 WHERE fid = 2;
+UPDATE judet SET suprafata = 7100 WHERE fid = 3;
+UPDATE judet SET suprafata = 6300 WHERE fid = 4;
+UPDATE judet SET suprafata = 4900 WHERE fid = 5;
+UPDATE judet SET suprafata = 7100 WHERE fid = 6;
+UPDATE judet SET suprafata = 6700 WHERE fid = 7;
+UPDATE judet SET suprafata = 6200 WHERE fid = 8;
+UPDATE judet SET suprafata = 230 WHERE fid = 9;
+UPDATE judet SET suprafata = 6700 WHERE fid = 10;
 
 UPDATE uat SET nume = 'timișoara' WHERE fid = 8;
 UPDATE uat SET nume = 'lugoj' WHERE fid = 9;
