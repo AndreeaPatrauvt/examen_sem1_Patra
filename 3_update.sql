@@ -99,6 +99,17 @@ UPDATE persoane SET nume = 'Mihai Stan' WHERE id = 9;
 UPDATE persoane SET nume = 'Roxana Ilie' WHERE id = 10;
 UPDATE persoane SET nume = 'Mihaela Tudor' WHERE id = 11;
 
+UPDATE persoane SET email = 'adrian.popescu@email.com' WHERE id = 2;
+UPDATE persoane SET email = 'andrei.ionescu@email.com' WHERE id = 3;
+UPDATE persoane SET email = 'mihai.popa@email.com' WHERE id = 4;
+UPDATE persoane SET email = 'ioana.radu@email.com' WHERE id = 5;
+UPDATE persoane SET email = 'andreea.dumitru@email.com' WHERE id = 6;
+UPDATE persoane SET email = 'valentin.georgescu@email.com' WHERE id = 7;
+UPDATE persoane SET email = 'marius.ene@email.com' WHERE id = 8;
+UPDATE persoane SET email = 'mihai.stan@email.com' WHERE id = 9;
+UPDATE persoane SET email = 'roxana.ilie@email.com' WHERE id = 10;
+UPDATE persoane SET email = 'mihaela.tudor@email.com' WHERE id = 11;
+
 UPDATE antrenori SET nota_review = 4.5 WHERE id = 1;
 UPDATE antrenori SET nota_review = 4.8 WHERE id = 2;
 UPDATE antrenori SET nota_review = 4.2 WHERE id = 3;
