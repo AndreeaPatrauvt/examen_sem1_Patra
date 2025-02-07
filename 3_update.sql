@@ -1,13 +1,13 @@
-update tara set nume='romania' where fid=1;
-update tara set nume='france' where fid=12;
-update tara set nume='germany' where fid=13;
-update tara set nume='italy' where fid=14;
-update tara set nume='spain' where fid=15;
-update tara set nume='england' where fid=16;
-update tara set nume='hungary' where fid=17;
-update tara set nume='bulgary' where fid=18;
-update tara set nume='belgium' where fid=19;
-update tara set nume='greece' where fid=20;
+UPDATE tara SET suprafata = 238397 WHERE fid = 1;
+UPDATE tara SET suprafata = 551695 WHERE fid = 12;
+UPDATE tara SET suprafata = 357022 WHERE fid = 13;
+UPDATE tara SET suprafata = 301340 WHERE fid = 14;
+UPDATE tara SET suprafata = 505992 WHERE fid = 15;
+UPDATE tara SET suprafata = 243610 WHERE fid = 16;
+UPDATE tara SET suprafata = 93030 WHERE fid = 17;
+UPDATE tara SET suprafata = 110994 WHERE fid = 18;
+UPDATE tara SET suprafata = 30528 WHERE fid = 19;
+UPDATE tara SET suprafata = 131957 WHERE fid = 20;
 
 
 UPDATE judet SET suprafata = 8700 WHERE fid = 1;
@@ -21,16 +21,16 @@ UPDATE judet SET suprafata = 6200 WHERE fid = 8;
 UPDATE judet SET suprafata = 230 WHERE fid = 9;
 UPDATE judet SET suprafata = 6700 WHERE fid = 10;
 
-UPDATE uat SET nume = 'timișoara' WHERE fid = 8;
-UPDATE uat SET nume = 'lugoj' WHERE fid = 9;
-UPDATE uat SET nume = 'arad' WHERE fid = 10;
-UPDATE uat SET nume = 'lipova' WHERE fid = 11;
-UPDATE uat SET nume = 'hunedoara' WHERE fid = 12;
-UPDATE uat SET nume = 'deva' WHERE fid = 13;
-UPDATE uat SET nume = 'simeria' WHERE fid = 14;
-UPDATE uat SET nume = 'drobeta' WHERE fid = 15;
-UPDATE uat SET nume = 'bucurești' WHERE fid = 16;
-UPDATE uat SET nume = 'cluj' WHERE fid = 17;
+UPDATE uat SET suprafata = 130 WHERE fid = 8;
+UPDATE uat SET suprafata = 120 WHERE fid = 9;
+UPDATE uat SET suprafata = 150 WHERE fid = 10;
+UPDATE uat SET suprafata = 90 WHERE fid = 11;
+UPDATE uat SET suprafata = 160 WHERE fid = 12;
+UPDATE uat SET suprafata = 110 WHERE fid = 13;
+UPDATE uat SET suprafata = 95 WHERE fid = 14;
+UPDATE uat SET suprafata = 105 WHERE fid = 15;
+UPDATE uat SET suprafata = 200 WHERE fid = 16;
+UPDATE uat SET suprafata = 175 WHERE fid = 17;
 
 UPDATE sala_fitness SET nume = 'Gym 1' WHERE id = 1;
 UPDATE sala_fitness SET nume = 'Gym 2' WHERE id = 2;
