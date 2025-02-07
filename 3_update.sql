@@ -32,16 +32,16 @@ UPDATE uat SET suprafata = 105 WHERE fid = 15;
 UPDATE uat SET suprafata = 200 WHERE fid = 16;
 UPDATE uat SET suprafata = 175 WHERE fid = 17;
 
-UPDATE sala_fitness SET nume = 'Gym 1' WHERE id = 1;
-UPDATE sala_fitness SET nume = 'Gym 2' WHERE id = 2;
-UPDATE sala_fitness SET nume = 'Gym 3' WHERE id = 3;
-UPDATE sala_fitness SET nume = 'Gym 4' WHERE id = 4;
-UPDATE sala_fitness SET nume = 'Gym 5' WHERE id = 5;
-UPDATE sala_fitness SET nume = 'Gym 6' WHERE id = 6;
-UPDATE sala_fitness SET nume = 'Gym 7' WHERE id = 7;
-UPDATE sala_fitness SET nume = 'Gym 8' WHERE id = 8;
-UPDATE sala_fitness SET nume = 'Gym 9' WHERE id = 9;
-UPDATE sala_fitness SET nume = 'Gym 10' WHERE id = 10;
+UPDATE sala_fitness SET suprafata = 500 WHERE id = 1;
+UPDATE sala_fitness SET suprafata = 450 WHERE id = 2;
+UPDATE sala_fitness SET suprafata = 600 WHERE id = 3;
+UPDATE sala_fitness SET suprafata = 550 WHERE id = 4;
+UPDATE sala_fitness SET suprafata = 700 WHERE id = 5;
+UPDATE sala_fitness SET suprafata = 650 WHERE id = 6;
+UPDATE sala_fitness SET suprafata = 800 WHERE id = 7;
+UPDATE sala_fitness SET suprafata = 750 WHERE id = 8;
+UPDATE sala_fitness SET suprafata = 900 WHERE id = 9;
+UPDATE sala_fitness SET suprafata = 850 WHERE id = 10;
 
 update sali_antrenament set numar_sali = 5 where id =1;
 UPDATE sali_antrenament SET numar_sali = 3 WHERE id = 2;
