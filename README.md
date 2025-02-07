@@ -1,6 +1,6 @@
 ** ENUNT PROIECT **
 
-Reteaua de Sali de fitness Gym One din Timisoara si Arad doreste sa isi mapeze salile de fitness. Dupa maparea locatiilor, se dorește implementarea  unei noi baze de date pentru buna organizare a fiecarei locatii. Baza de date va include informatii despre membri, abonamente, antrenori
+Reteaua de Sali de fitness Gym One isi doreste sa isi mapeze salile de fitness. Dupa maparea locatiilor, se dorește implementarea  unei noi baze de date pentru buna organizare a fiecarei locatii. Baza de date va include informatii despre membri, abonamente, antrenori
 
 
 Entitati:
